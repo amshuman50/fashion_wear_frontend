@@ -56,29 +56,30 @@ const Contact = () => {
               Have any questions? Please reach out to us.
             </p>
             <a
-              href="https://maps.app.goo.gl/PUFbCf7w5cHEX2AF6"
+              // href="https://maps.app.goo.gl/PUFbCf7w5cHEX2AF6"
+              href="27.61144550683157, 85.2677429773436"
               target="_blank"
               className="m-1 text-sm block text-dark dark:text-white hover:text-primary"
             >
-              📍 Prithvi Path, Dharan, Sunsari
+              📍 Pharping, Kathmandu
             </a>
             <a
-              href="mailto:info@codeit.com.np"
+              href="mailto:amshumanmaharjan.com.np"
               className="m-1 text-sm block text-dark dark:text-white hover:text-primary"
             >
-              📨 info@codeit.com.np
+              📨 amshumanmaharjan.com.np
             </a>
             <a
-              href="tel:+977-25-575163"
+              href="tel:+977-01-4710003"
               className="m-1 text-sm block text-dark dark:text-white hover:text-primary"
             >
-              📞 +977-25-575163
+              📞 +977-4710003
             </a>
             <a
-              href="https://wa.me/9862130505"
+              href="https://wa.me/9866545875"
               className="m-1 text-sm block text-dark dark:text-white hover:text-primary"
             >
-              💬 9862130505
+              💬 9866545875
             </a>
           </div>
         </div>
